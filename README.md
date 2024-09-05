@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hi! I am a new student at AAU Copenhagen. Howdy. Howdy. Howdy.
 <!--
 **NicolaiOestergaard-aau/NicolaiOestergaard-aau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
